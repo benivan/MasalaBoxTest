@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/typeOne"
+        android:icon="@drawable/ic_baseline_home_24"
+        android:iconTint="@color/steel"
+        android:title="Type One"/>
+    <item android:id="@+id/typeTwo"
+        android:iconTint="@color/steel"
+        android:icon="@drawable/ic_baseline_search_24"
+        android:title="Type two"
+        />
+    <item android:id="@+id/typeThree"
+        android:iconTint="@color/steel"
+        android:icon="@drawable/ic_baseline_search_24"
+        android:title="Type three"
+        />
+</menu>

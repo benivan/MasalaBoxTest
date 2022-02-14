@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Masala Box Test</string>
+    <string-array name="filter">
+        <item>All</item>
+        <item>Type One</item>
+        <item>Type Two</item>
+        <item>Type Three</item>
+    </string-array>
+</resources>
